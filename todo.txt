@@ -1,6 +1,5 @@
 todo
 
-websocket disconnects
 improve nip-17, committments, pet names, chain
 improve nostrefresh
 improve 1617
@@ -13,7 +12,6 @@ right structure
 app layout
 styles, link colour
 correct date format
-better description for link than reddit
 add tailwind
 wider tables
 sidebar

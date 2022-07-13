@@ -1,5 +1,9 @@
 20220713
 new bot
+addbookmark.js script
+deploy to json.rocks
+websocket disconnects
+better description for link than reddit
 
 
 20220712
