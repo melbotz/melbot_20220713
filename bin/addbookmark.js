@@ -17,8 +17,8 @@ var di = {}
 var id = 'data'
 di.data = 1
 
-var bookmark = argv[0] || 'https://www.reddit.com/r/EarthPorn/comments/vxohh1/hidden_lake_glacier_national_park_montana_usa/'
-var image = argv[1] || 'https://i.redd.it/ioqw3bprz7b91.jpg'
+var bookmark = argv._[0] || 'https://www.reddit.com/r/EarthPorn/comments/vxohh1/hidden_lake_glacier_national_park_montana_usa/'
+var image = argv._[1] || 'https://i.redd.it/ioqw3bprz7b91.jpg'
 
 
 var di = index.replace(
