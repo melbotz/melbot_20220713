@@ -1,6 +1,6 @@
 {
   "name": "melbot_20220713",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "melbot_20220713",
   "main": "index.js",
   "type": "module",
@@ -20,7 +20,9 @@
   "author": "Melvin Carvalho",
   "dependencies": {
     "child_process": "^1.0.2",
+    "fs": "^0.0.1-security",
     "http": "^0.0.1-security",
+    "minimist": "^1.2.6",
     "path": "^0.12.7",
     "serve": "^13.0.4",
     "url": "^0.11.0",
